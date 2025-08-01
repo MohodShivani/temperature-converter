@@ -1,1 +1,1 @@
-# temperature-converter
+Changes temperature from degree celsius to fahrenheit.
